@@ -1,1 +1,2 @@
 - httpd-2.4.57-win64-VS17
+- mod_fcgid-2.3.10-win64-VS17
