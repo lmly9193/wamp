@@ -3,3 +3,4 @@
 - mariadb-10.11.2-winx64
 - php-8.2.5-nts-Win32-vs16-x64
 - php-7.4.33-nts-Win32-vc15-x64
+- php-7.3.20-nts-Win32-VC15-x64
